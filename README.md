@@ -2,9 +2,6 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
 ### 프로젝트 목적
 ----
 > 기업의 거래와 매출 및 자원을 효율적으로 통합 관리하여 경영효율의 극대화에 기여하는 비즈니스 솔루션인 ERP 프로젝트를 수행함으로써 ERP 시스템에 대한 이해 함양과 ERP 시스템을 간접적으로 경험하고자 함.
