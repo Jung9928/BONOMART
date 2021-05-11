@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-## 개발 환경
+### 개발 환경
 - Windows OS x64
 - Tomcat Apache 9.0.44
 - Java 11.0.8
@@ -40,7 +40,7 @@
 - Eclipse IDE EE 4.18.0 
 - EGIT
 
-## Libarary
+### 라이브러리
 -----
 | Library | README |
 | ------ | ------ |
@@ -48,68 +48,18 @@
 | ojdbc6.jar | Oracle DB와의 연동 |
 | jQuery-3.6.0.min.js | jQuery 사용 |
 
-## Development
-
-Want to contribute? Great!
-
-Dillinger uses Gulp + Webpack for fast developing.
-Make a change in your file and instantaneously see your updates!
-
-Open your favorite Terminal and run these commands.
-
-First Tab:
-
-```sh
-node app
-```
-
-Second Tab:
-
-```sh
-gulp watch
-```
-
-(optional) Third:
-
-```sh
-karma test
-```
-
-#### Building for source
-
-For production release:
-
-```sh
-gulp build --prod
-```
-
-Generating pre-built zip archives for distribution:
-
-```sh
-gulp build dist --prod
-```
+### 개발 일정
 
 
-```sh
-cd dillinger
-docker build -t <youruser>/dillinger:${package.json.version} .
-```
+### ERD 설계
 
-This will create the dillinger image and pull in the necessary dependencies.
-Be sure to swap out `${package.json.version}` with the actual
-version of Dillinger.
 
-Once done, run the Docker image and map the port to whatever you wish on
-your host. In this example, we simply map port 8000 of the host to
-port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
+### 사이트 맵
 
-```sh
-docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
-```
 
-> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
 
-## License
+
+### 라이센스
 
 MIT
 
