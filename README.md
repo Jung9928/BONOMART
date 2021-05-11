@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Ajax-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ## 개발 환경
 - Windows OS x64
@@ -51,18 +52,16 @@ npm install --production
 NODE_ENV=production node app
 ```
 
-## Plugins
+## Libarary
 
 Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
 
-| Plugin | README |
+| Library | README |
 | ------ | ------ |
-| cos.jar | [plugins/dropbox/README.md][PlDb] |
-| gson-2.8.6.jar | [plugins/github/README.md][PlGh] |
-| json-simple-1.1.1.jar | [plugins/googledrive/README.md][PlGd] |
-| ojdbc6.jar | [plugins/onedrive/README.md][PlOd] |
-| jQuery-3.6.0.min.js | [plugins/medium/README.md][PlMe] |
+| json-simple-1.1.1.jar | Ajax 호출 시, 데이터를 json 객체로 전송하기 위해 사용 |
+| ojdbc6.jar | Oracle DB와의 연동 |
+| jQuery-3.6.0.min.js | jQuery 사용 |
 
 ## Development
 
