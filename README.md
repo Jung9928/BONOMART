@@ -30,9 +30,13 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ## 개발 환경
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+- Windows OS x64
+- Tomcat Apache 9.0.44
+- Java 11.0.8
+- Oracle DB 11g Express Edition 11.2.0.2.0 (64bit)
+- Eclipse IDE EE 4.18.0 
+- EGIT
 
-Install the dependencies and devDependencies and start the server.
 
 ```sh
 cd dillinger
