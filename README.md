@@ -38,20 +38,6 @@
 - Eclipse IDE EE 4.18.0 
 - EGIT
 
-
-```sh
-cd dillinger
-npm i
-node app
-```
-
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
-```
-
 ## Libarary
 -----
 | Library | README |
