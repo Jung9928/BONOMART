@@ -34,13 +34,15 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-### 개발 환경
+### 개발 환경 및 도구
 ----
 - Windows OS x64
 - Tomcat Apache 9.0.44
 - Java 11.0.8
 - Oracle DB 11g Express Edition 11.2.0.2.0 (64bit)
 - Eclipse IDE EE 4.18.0 
+- BootStrap 4.6.0
+- jQuery 3.6.0
 - EGIT
 
 ### 라이브러리
