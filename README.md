@@ -21,7 +21,7 @@
 
 
 ### 적용된 기술
-
+--------
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
@@ -53,7 +53,7 @@ NODE_ENV=production node app
 ```
 
 ## Libarary
-
+-----
 | Library | README |
 | ------ | ------ |
 | json-simple-1.1.1.jar | Ajax 호출 시, 데이터를 json 객체로 전송하기 위해 사용 |
@@ -101,13 +101,6 @@ Generating pre-built zip archives for distribution:
 gulp build dist --prod
 ```
 
-## Docker
-
-Dillinger is very easy to install and deploy in a Docker container.
-
-By default, the Docker will expose port 8080, so change this within the
-Dockerfile if necessary. When ready, simply use the Dockerfile to
-build the image.
 
 ```sh
 cd dillinger
@@ -127,13 +120,6 @@ docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger
 ```
 
 > Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
-
-Verify the deployment by navigating to your server address in
-your preferred browser.
-
-```sh
-127.0.0.1:8000
-```
 
 ## License
 
