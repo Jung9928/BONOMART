@@ -58,12 +58,11 @@ Instructions on how to use them in your own application are linked below.
 
 | Plugin | README |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| cos.jar | [plugins/dropbox/README.md][PlDb] |
+| gson-2.8.6.jar | [plugins/github/README.md][PlGh] |
+| json-simple-1.1.1.jar | [plugins/googledrive/README.md][PlGd] |
+| ojdbc6.jar | [plugins/onedrive/README.md][PlOd] |
+| jQuery-3.6.0.min.js | [plugins/medium/README.md][PlMe] |
 
 ## Development
 
