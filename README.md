@@ -54,9 +54,6 @@ NODE_ENV=production node app
 
 ## Libarary
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
 | Library | README |
 | ------ | ------ |
 | json-simple-1.1.1.jar | Ajax 호출 시, 데이터를 json 객체로 전송하기 위해 사용 |
