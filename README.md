@@ -78,7 +78,7 @@
 
 | 5) 회원 승인 요청 페이지             | 6) 회원 권한 회수 페이지 |
 | ------ | ------ |
-| <img src="https://user-images.githubusercontent.com/45419456/117927584-5d024300-b335-11eb-8f1a-0240c43c97ca.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
+| <img src="https://user-images.githubusercontent.com/45419456/117927677-7f945c00-b335-11eb-8e8f-db39a61d4393.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
 
 | 7) 회원 정보 수정 페이지             | 8) 회원 가입 페이지 |
 | ------ | ------ |
