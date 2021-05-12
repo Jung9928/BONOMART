@@ -69,28 +69,28 @@
 
 ### 구현 이미지
 1) 로그인 페이지
-<img src="https://user-images.githubusercontent.com/45419456/117924188-4e655d00-b330-11eb-9823-85deb2a71c50.png" width = "50%" height = "50%">
+<img src="https://user-images.githubusercontent.com/45419456/117924188-4e655d00-b330-11eb-9823-85deb2a71c50.png" width = "40%" height = "50%">
 
 2) 회원 가입 페이지
-![image](https://user-images.githubusercontent.com/45419456/117924238-62a95a00-b330-11eb-9de2-0d8d0d93fec2.png)
+<img src="https://user-images.githubusercontent.com/45419456/117924238-62a95a00-b330-11eb-9de2-0d8d0d93fec2.png" width = "40%" height = "50%">
 
 3) ㅇㄹ
-![image](https://user-images.githubusercontent.com/45419456/117924658-072b9c00-b331-11eb-9e9a-404af7e36360.png)
+<img src="https://user-images.githubusercontent.com/45419456/117924658-072b9c00-b331-11eb-9e9a-404af7e36360.png" width = "40%" height = "50%">
 
 4) ㅇㄹㅇ
-![image](https://user-images.githubusercontent.com/45419456/117924693-127ec780-b331-11eb-92c5-7daafc7494fa.png)
+<img src="https://user-images.githubusercontent.com/45419456/117924693-127ec780-b331-11eb-92c5-7daafc7494fa.png" width = "40%" height = "50%">
 
 5) ㅇㄹ
-![image](https://user-images.githubusercontent.com/45419456/117924725-1ca0c600-b331-11eb-81e6-0dd9c33f4a5e.png)
+<img src="https://user-images.githubusercontent.com/45419456/117924725-1ca0c600-b331-11eb-81e6-0dd9c33f4a5e.png" width="40%" height = "50%">
 
 6) ㅇ
-![image](https://user-images.githubusercontent.com/45419456/117924760-304c2c80-b331-11eb-9e5c-6f9634c39549.png)
+<img src="https://user-images.githubusercontent.com/45419456/117924760-304c2c80-b331-11eb-9e5c-6f9634c39549.png" width="40%" height = "50%">
 
 7) ㅇㄹ
-![image](https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png)
+<img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png" width="40%" height="50%">
 
 8) ㅇㄹ
-![image](https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png)
+<img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png" width="40%" height="50%">
 
 
 
