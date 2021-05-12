@@ -100,9 +100,9 @@
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117928839-144b8980-b337-11eb-8731-2df649c60dc2.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928920-31805800-b337-11eb-9fbe-0a49e67365e4.png">
 
-| 17) 재고조회/수정 페이지             | 18) 거래처 조회 페이지 |
+| 17) 재고조회/수정 페이지             | 18) 메인(월/일별 판매량 시각화) 페이지 |
 | ------ | ------ |
-| <img src="https://user-images.githubusercontent.com/45419456/117929266-90de6800-b337-11eb-92e2-ce4df8ae55db.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928920-31805800-b337-11eb-9fbe-0a49e67365e4.png">
+| <img src="https://user-images.githubusercontent.com/45419456/117929266-90de6800-b337-11eb-92e2-ce4df8ae55db.png"> | <img src="https://user-images.githubusercontent.com/45419456/117929376-b3708100-b337-11eb-9d09-fe2c7b83fad3.png">
 
 
 ### 라이센스
