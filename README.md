@@ -61,13 +61,16 @@
 
 
 ### ERD 설계
+-----
 ![image](https://user-images.githubusercontent.com/45419456/117923426-f7ab5380-b32e-11eb-9724-7846a8ec9bbe.png)
 
 
 ### 사이트 맵
+-----
 ![image](https://user-images.githubusercontent.com/45419456/117923626-51ac1900-b32f-11eb-9079-d154d117c087.png)
 
 ### 구현 이미지
+-----
 | 1) 로그인 페이지             | 2) 회원 가입 페이지 |
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117924188-4e655d00-b330-11eb-9823-85deb2a71c50.png"/> | <img src="https://user-images.githubusercontent.com/45419456/117924238-62a95a00-b330-11eb-9de2-0d8d0d93fec2.png"/>
@@ -102,6 +105,7 @@
 
 
 ### 라이센스
+-----
 
 MIT
 
