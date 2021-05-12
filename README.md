@@ -80,23 +80,19 @@
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117927677-7f945c00-b335-11eb-8e8f-db39a61d4393.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
 
-| 7) 회원 정보 수정 페이지             | 8) 회원 가입 페이지 |
-| ------ | ------ |
-| <img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
-
-| 9) 상품 등록 페이지             | 10) 상품 조회 페이지 |
+| 7) 상품 등록 페이지             | 8) 상품 조회 페이지 |
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117927966-e285f300-b335-11eb-824e-2af2af5cb022.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928073-09442980-b336-11eb-891f-fb8bf4f04f3c.png">
 
-| 7) 회원 정보 수정 페이지             | 8) 회원 가입 페이지 |
+| 9) 판매 등록 페이지             | 10) 판매 조회 페이지 |
+| ------ | ------ |
+| <img src="https://user-images.githubusercontent.com/45419456/117928367-6e981a80-b336-11eb-9eb2-9b5e89acfdd4.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928431-840d4480-b336-11eb-889a-765a60c7b20f.png">
+
+| 11)   페이지             | 12) 회원 가입 페이지 |
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
 
-| 7) 회원 정보 수정 페이지             | 8) 회원 가입 페이지 |
-| ------ | ------ |
-| <img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
-
-| 7) 회원 정보 수정 페이지             | 8) 회원 가입 페이지 |
+| 13) 회원 정보 수정 페이지             | 14) 회원 가입 페이지 |
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
 
