@@ -88,13 +88,21 @@
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117928367-6e981a80-b336-11eb-9eb2-9b5e89acfdd4.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928431-840d4480-b336-11eb-889a-765a60c7b20f.png">
 
-| 11)   페이지             | 12) 회원 가입 페이지 |
+| 11) 발주 등록 페이지             | 12) 발주 조회 페이지 |
 | ------ | ------ |
-| <img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
+| <img src="https://user-images.githubusercontent.com/45419456/117928586-bd45b480-b336-11eb-995f-6dd5bb9e8252.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928670-d51d3880-b336-11eb-909d-cd9eef690601.png">
 
-| 13) 회원 정보 수정 페이지             | 14) 회원 가입 페이지 |
+| 13) 거래처 등록 페이지             | 14) 거래처 조회 페이지 |
 | ------ | ------ |
-| <img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
+| <img src="https://user-images.githubusercontent.com/45419456/117928839-144b8980-b337-11eb-8731-2df649c60dc2.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928920-31805800-b337-11eb-9fbe-0a49e67365e4.png">
+
+| 15) 거래처 등록 페이지             | 16) 거래처 조회 페이지 |
+| ------ | ------ |
+| <img src="https://user-images.githubusercontent.com/45419456/117928839-144b8980-b337-11eb-8731-2df649c60dc2.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928920-31805800-b337-11eb-9fbe-0a49e67365e4.png">
+
+| 17) 거래처 등록 페이지             | 18) 거래처 조회 페이지 |
+| ------ | ------ |
+| <img src="https://user-images.githubusercontent.com/45419456/117928839-144b8980-b337-11eb-8731-2df649c60dc2.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928920-31805800-b337-11eb-9fbe-0a49e67365e4.png">
 
 
 ### 라이센스
