@@ -84,9 +84,9 @@
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117927966-e285f300-b335-11eb-824e-2af2af5cb022.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928073-09442980-b336-11eb-891f-fb8bf4f04f3c.png">
 
-| 9) 판매 등록 페이지             | 10) 판매 조회 페이지 |
+| 9) 판매 등록 페이지             | 10) 판매 조회/수정/삭제 페이지 |
 | ------ | ------ |
-| <img src="https://user-images.githubusercontent.com/45419456/117928367-6e981a80-b336-11eb-9eb2-9b5e89acfdd4.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928431-840d4480-b336-11eb-889a-765a60c7b20f.png">
+| <img src="https://user-images.githubusercontent.com/45419456/117928367-6e981a80-b336-11eb-9eb2-9b5e89acfdd4.png"> | <img src="https://user-images.githubusercontent.com/45419456/117929885-48737a00-b338-11eb-8691-11233bfd0188.png">
 
 | 11) 발주 등록 페이지             | 12) 발주 조회 페이지 |
 | ------ | ------ |
@@ -97,7 +97,7 @@
 | <img src="https://user-images.githubusercontent.com/45419456/117928839-144b8980-b337-11eb-8731-2df649c60dc2.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928920-31805800-b337-11eb-9fbe-0a49e67365e4.png"> | <img src="https://user-images.githubusercontent.com/45419456/117929499-de5ad500-b337-11eb-80a4-38438a0cb9b1.png">
 
 | 15) 거래처 등록 페이지             | 16) 거래처 조회 페이지 |
-| ------ | ------ |
+| ------ | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117928839-144b8980-b337-11eb-8731-2df649c60dc2.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928920-31805800-b337-11eb-9fbe-0a49e67365e4.png">
 
 | 17) 재고조회/수정 페이지             | 18) 메인(월/일별 판매량 시각화) 페이지 |
