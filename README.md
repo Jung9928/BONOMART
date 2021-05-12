@@ -88,9 +88,9 @@
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117928367-6e981a80-b336-11eb-9eb2-9b5e89acfdd4.png"> | <img src="https://user-images.githubusercontent.com/45419456/117929885-48737a00-b338-11eb-8691-11233bfd0188.png">
 
-| 11) 발주 등록 페이지             | 12) 발주 조회 페이지 |
+| 11) 발주 등록 페이지             | 12) 발주 조회/수정/삭제 페이지 |
 | ------ | ------ |
-| <img src="https://user-images.githubusercontent.com/45419456/117928586-bd45b480-b336-11eb-995f-6dd5bb9e8252.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928670-d51d3880-b336-11eb-909d-cd9eef690601.png">
+| <img src="https://user-images.githubusercontent.com/45419456/117928586-bd45b480-b336-11eb-995f-6dd5bb9e8252.png"> | <img src="https://user-images.githubusercontent.com/45419456/117930073-85d80780-b338-11eb-8df6-4b85b88fa5e8.png">
 
 | 13) 거래처 등록 페이지             | 14) 거래처 조회 페이지 |          15) 거래처 수정/삭제 페이지|
 | ------ | ------ | ------ |
