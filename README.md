@@ -84,6 +84,23 @@
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
 
+| 9) 상품 등록 페이지             | 10) 회원 가입 페이지 |
+| ------ | ------ |
+| <img src="https://user-images.githubusercontent.com/45419456/117927966-e285f300-b335-11eb-824e-2af2af5cb022.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
+
+| 7) 회원 정보 수정 페이지             | 8) 회원 가입 페이지 |
+| ------ | ------ |
+| <img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
+
+| 7) 회원 정보 수정 페이지             | 8) 회원 가입 페이지 |
+| ------ | ------ |
+| <img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
+
+| 7) 회원 정보 수정 페이지             | 8) 회원 가입 페이지 |
+| ------ | ------ |
+| <img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
+
+
 ### 라이센스
 
 MIT
