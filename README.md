@@ -96,9 +96,9 @@
 | ------ | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117928839-144b8980-b337-11eb-8731-2df649c60dc2.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928920-31805800-b337-11eb-9fbe-0a49e67365e4.png"> | <img src="https://user-images.githubusercontent.com/45419456/117929499-de5ad500-b337-11eb-80a4-38438a0cb9b1.png">
 
-| 15) 거래처 등록 페이지             | 16) 거래처 조회 페이지 |
+| 15) 거래처 등록 페이지             | 16) 거래처 조회 페이지 |          16) 거래처 수정/삭제 페이지|
 | ------ | ------ | ------ |
-| <img src="https://user-images.githubusercontent.com/45419456/117928839-144b8980-b337-11eb-8731-2df649c60dc2.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928920-31805800-b337-11eb-9fbe-0a49e67365e4.png">
+| <img src="https://user-images.githubusercontent.com/45419456/117928839-144b8980-b337-11eb-8731-2df649c60dc2.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928920-31805800-b337-11eb-9fbe-0a49e67365e4.png"> | <img src="https://user-images.githubusercontent.com/45419456/117930186-a56f3000-b338-11eb-8d0c-e68a78bafbd4.png">
 
 | 17) 재고조회/수정 페이지             | 18) 메인(월/일별 판매량 시각화) 페이지 |
 | ------ | ------ |
