@@ -92,7 +92,7 @@
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117928586-bd45b480-b336-11eb-995f-6dd5bb9e8252.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928670-d51d3880-b336-11eb-909d-cd9eef690601.png">
 
-| 13) 거래처 등록 페이지             | 14) 거래처 조회 페이지 |          15) 거래처 수정/삭제 페이지
+| 13) 거래처 등록 페이지             | 14) 거래처 조회 페이지 |          15) 거래처 수정/삭제 페이지|
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117928839-144b8980-b337-11eb-8731-2df649c60dc2.png"> | <img src="https://user-images.githubusercontent.com/45419456/117928920-31805800-b337-11eb-9fbe-0a49e67365e4.png"> | <img src="https://user-images.githubusercontent.com/45419456/117929499-de5ad500-b337-11eb-80a4-38438a0cb9b1.png">
 
