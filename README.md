@@ -72,9 +72,9 @@
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117924188-4e655d00-b330-11eb-9823-85deb2a71c50.png"/> | <img src="https://user-images.githubusercontent.com/45419456/117924238-62a95a00-b330-11eb-9de2-0d8d0d93fec2.png"/>
 
-| 3) 회원 정보 수정 페이지             | 4) 회원 가입 페이지 |
+| 3) 회원 정보 조회 페이지             | 4) 회원 정보 수정 페이지 |
 | ------ | ------ |
-| <img src="https://user-images.githubusercontent.com/45419456/117926616-00eaef00-b334-11eb-8deb-27dc50b7d212.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924725-1ca0c600-b331-11eb-81e6-0dd9c33f4a5e.png"/>
+| <img src="https://user-images.githubusercontent.com/45419456/117924725-1ca0c600-b331-11eb-81e6-0dd9c33f4a5e.png"/> | <img src="https://user-images.githubusercontent.com/45419456/117926616-00eaef00-b334-11eb-8deb-27dc50b7d212.png">
 
 | 5) 회원 정보 수정 페이지             | 6) 회원 가입 페이지 |
 | ------ | ------ |
