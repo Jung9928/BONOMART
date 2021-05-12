@@ -31,7 +31,7 @@
 - 회원 기능 관련 페이지 UI 구현
 - 회원 기능 관련 DB 설계
 
-### 적용된 기술
+### 사용 기술
 --------
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
