@@ -69,7 +69,7 @@
 
 ### 구현 이미지
 1) 로그인 페이지
-![image](https://user-images.githubusercontent.com/45419456/117924188-4e655d00-b330-11eb-9823-85deb2a71c50.png)
+<img src="https://user-images.githubusercontent.com/45419456/117924188-4e655d00-b330-11eb-9823-85deb2a71c50.png" width : "50%" height : "50%">
 
 2) 회원 가입 페이지
 ![image](https://user-images.githubusercontent.com/45419456/117924238-62a95a00-b330-11eb-9de2-0d8d0d93fec2.png)
