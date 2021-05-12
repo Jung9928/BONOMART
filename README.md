@@ -72,26 +72,17 @@
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/45419456/117924188-4e655d00-b330-11eb-9823-85deb2a71c50.png"/> | <img src="https://user-images.githubusercontent.com/45419456/117924238-62a95a00-b330-11eb-9de2-0d8d0d93fec2.png"/>
 
+| 3) 회원 정보 수정 페이지             | 4) 회원 가입 페이지 |
+| ------ | ------ |
+| <img src="https://user-images.githubusercontent.com/45419456/117926616-00eaef00-b334-11eb-8deb-27dc50b7d212.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924725-1ca0c600-b331-11eb-81e6-0dd9c33f4a5e.png"/>
 
-2) 회원 가입 페이지
-<img src="https://user-images.githubusercontent.com/45419456/117924238-62a95a00-b330-11eb-9de2-0d8d0d93fec2.png" width = "40%" height = "50%">
+| 5) 회원 정보 수정 페이지             | 6) 회원 가입 페이지 |
+| ------ | ------ |
+| <img src="https://user-images.githubusercontent.com/45419456/117924760-304c2c80-b331-11eb-9e5c-6f9634c39549.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
 
-3) 회원 정보 수정
-<img src="https://user-images.githubusercontent.com/45419456/117926616-00eaef00-b334-11eb-8deb-27dc50b7d212.png" width = "40%" height = "50%">
-
-5) ㅇㄹ
-<img src="https://user-images.githubusercontent.com/45419456/117924725-1ca0c600-b331-11eb-81e6-0dd9c33f4a5e.png" width="40%" height = "50%">
-
-6) ㅇ
-<img src="https://user-images.githubusercontent.com/45419456/117924760-304c2c80-b331-11eb-9e5c-6f9634c39549.png" width="40%" height = "50%">
-
-7) ㅇㄹ
-<img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png" width="40%" height="50%">
-
-8) ㅇㄹ
-<img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png" width="40%" height="50%">
-
-
+| 7) 회원 정보 수정 페이지             | 8) 회원 가입 페이지 |
+| ------ | ------ |
+| <img src="https://user-images.githubusercontent.com/45419456/117925015-9f298580-b331-11eb-80b4-f65ec5e1006e.png"> | <img src="https://user-images.githubusercontent.com/45419456/117924919-7acda900-b331-11eb-8452-7d8b8f766a07.png">
 
 ### 라이센스
 
