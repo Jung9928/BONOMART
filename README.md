@@ -74,11 +74,8 @@
 2) 회원 가입 페이지
 <img src="https://user-images.githubusercontent.com/45419456/117924238-62a95a00-b330-11eb-9de2-0d8d0d93fec2.png" width = "40%" height = "50%">
 
-3) ㅇㄹ
-<img src="https://user-images.githubusercontent.com/45419456/117924658-072b9c00-b331-11eb-9e9a-404af7e36360.png" width = "40%" height = "50%">
-
-4) ㅇㄹㅇ
-<img src="https://user-images.githubusercontent.com/45419456/117924693-127ec780-b331-11eb-92c5-7daafc7494fa.png" width = "40%" height = "50%">
+3) 회원 정보 수정
+<img src="https://user-images.githubusercontent.com/45419456/117926616-00eaef00-b334-11eb-8deb-27dc50b7d212.png" width = "40%" height = "50%">
 
 5) ㅇㄹ
 <img src="https://user-images.githubusercontent.com/45419456/117924725-1ca0c600-b331-11eb-81e6-0dd9c33f4a5e.png" width="40%" height = "50%">
