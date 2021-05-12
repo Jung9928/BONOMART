@@ -61,6 +61,7 @@
 
 
 ### ERD 설계
+![image](https://user-images.githubusercontent.com/45419456/117923426-f7ab5380-b32e-11eb-9724-7846a8ec9bbe.png)
 
 
 ### 사이트 맵
