@@ -51,11 +51,12 @@
 - jQuery 3.6.0
 - EGIT
 
-### 라이브러리
+### 사용된 라이브러리
 -----
 | Library | README |
 | ------ | ------ |
 | json-simple-1.1.1.jar | Ajax 호출 시, 데이터를 json 객체로 전송하기 위해 사용 |
+| gson-2.8.6.jar |  |
 | ojdbc6.jar | Oracle DB와의 연동 |
 | jQuery-3.6.0.min.js | jQuery 사용 |
 
