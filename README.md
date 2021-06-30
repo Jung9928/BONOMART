@@ -56,7 +56,7 @@
 | Library | README |
 | ------ | ------ |
 | json-simple-1.1.1.jar | Ajax 호출 시, 데이터를 json 객체로 전송하기 위해 사용 |
-| gson-2.8.6.jar |  |
+| gson-2.8.6.jar | 객체를 json 형태로 변환하기 위해 사용 |
 | ojdbc6.jar | Oracle DB와의 연동 |
 | jQuery-3.6.0.min.js | jQuery 사용 |
 
